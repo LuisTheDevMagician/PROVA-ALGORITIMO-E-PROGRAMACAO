@@ -1,7 +1,7 @@
 # Prova de Algoritmo e Programação
 
 **Nome:** Luis Eduardo Pinheiro Martins  
-**Data:** 19/08/2024  
+**Data de entrega:** 18/08/2024  
 **Professor:** Felipe Gonçalves dos Santos  
 
 ## Introdução
